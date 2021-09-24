@@ -9,7 +9,7 @@
 
 <br> </br>
 
-- **There are 3 detection processes you can choose in the face detection project;**
+- **The financial transactions that can be made with the Cryptocurrency & Bank project are;**
 
     <ul>
         <li>Currency Exchange</li>

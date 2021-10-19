@@ -13,7 +13,6 @@
 
     <ul>
         <li>Currency Exchange</li>
-        <li>Interest Investment</li> 
         <li>Buying Bitcoin</li>
         <li>Buying Ethereum</li>
 
